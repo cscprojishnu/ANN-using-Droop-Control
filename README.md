@@ -38,5 +38,6 @@ Implemented in **Python**, the model achieves superior voltage and frequency reg
 ### 🔄 Droop Control Equations
 ```math
 V = 230 - (mp + kp * (P - 1000)) * (P - 1000)
+
 F = 50  - (nq + kq * (Q - 500)) * (Q - 500)
 ```
