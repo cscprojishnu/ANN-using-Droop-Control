@@ -7,7 +7,6 @@ This repository contains the implementation and documentation of our research ti
 > **Voltage Stability Enhancement in Microgrids: An ANN-Based Droop Control Approach**  
 > 🧠 Authors: [Jishnu Teja Dandamudi](mailto:djishnuteja2006@gmail.com), [Rupa Kandula](mailto:rupakandula21@gmail.com)  
 > 🎓 Institution: Amrita School of Artificial Intelligence, Amrita Vishwa Vidyapeetham, Coimbatore, India
-> 
 > 🗓️ Year: 2025
 > 
 > Published in: *CRC Press, Taylor & Francis Group, UK* (2026)  
